@@ -1,0 +1,5 @@
+./rough.txt
+
+./inside gitdemo/rough.txt
+
+../rough.txt
